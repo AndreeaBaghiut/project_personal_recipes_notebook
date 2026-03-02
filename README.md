@@ -31,30 +31,6 @@ The application provides the following functionality:
 
 ---
 
-## Running the project locally
-
-### Prerequisites
-- .NET SDK 6 or newer
-- Visual Studio (recommended) or VS Code
-
-### Steps
-
-1. Clone the repository:
-```bash
-git clone https://github.com/AndreeaBaghiut/project_personal_recipes_notebook.git
-
-2.Open the solution file in Visual Studio.
-
-3. Restore dependencies and build the project:
-      dotnet restore
-      dotnet build
-
-4. Run the application:
-      dotnet run
-
-5. Open a browser and navigate to:
-      https://localhost:5001
-
 ---
 Project structure:
 ├── Areas/Identity/       # authentication and user management
