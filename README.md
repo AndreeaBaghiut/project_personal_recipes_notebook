@@ -27,8 +27,7 @@ The application provides the following functionality:
 - **C# / .NET**
 - **ASP.NET Razor Pages**
 - **Entity Framework Core**
-- **SQL database** (via EF Core)
-- **HTML, CSS, JavaScript** for the user interface
+- **JavaScript** 
 
 ---
 
